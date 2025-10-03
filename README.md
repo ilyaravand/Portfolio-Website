@@ -18,5 +18,6 @@ Portfolio-Website/
 ```
 
 ## Credit
-Base template by Ade-mir: https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2
-special thanks to [Fatemeh Abolhassani](https://github.com/FatemeAbolHassani) for her help with design and code review.
+Base template by [Ade-mir](https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2)
+</br>
+special thanks to [Fateme Abolhassani](https://github.com/FatemeAbolHassani) for her help with design and code review.
